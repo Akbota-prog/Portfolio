@@ -1,4 +1,4 @@
-/* Общие стили */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +6,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Шапка сайта */
 header {
     background-color: #333;
 }
@@ -20,14 +19,10 @@ header {
         header nav a:hover {
             color: #ffd700;
         }
-
-/* Раздел "Обо мне" */
 #about img {
     width: 150px;
     border-radius: 50%;
 }
-
-/* Разделы */
 section {
     padding: 30px 0;
 }
@@ -36,7 +31,6 @@ h2 {
     font-size: 2rem;
 }
 
-/* Раздел "Интересы" и "Навыки" */
 ul {
     list-style-type: none;
     padding: 0;
@@ -46,8 +40,6 @@ ul {
 li {
     margin: 10px 0;
 }
-
-/* Раздел "Контакты" */
 footer {
     background-color: #333;
     color: white;
